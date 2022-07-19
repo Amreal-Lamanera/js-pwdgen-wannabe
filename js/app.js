@@ -10,7 +10,7 @@ const user = {
     favColor: ''
 };
 
-const title = document.getElementById('my_title');
+const title = document.getElementById('my_psw');
 
 user.name = prompt('Scrivi il tuo nome');
 while (user.name == '' || user.name == null) {
