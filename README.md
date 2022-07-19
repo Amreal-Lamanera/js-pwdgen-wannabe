@@ -9,4 +9,4 @@
 - Chiedi colore preferito
 - FINCHE' l'utente non inserisce del testo
     - Continua a chiedere colore preferito
-- Genera password nome + cognome + colore preferito + numero casuale da 0 a 100
+- Genera password nome + cognome + colore preferito + numero casuale da 0 a 99
